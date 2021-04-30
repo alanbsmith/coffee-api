@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Burundi",
+    "region_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Ethiopia",
+    "region_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Rwanda",
+    "region_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Uganda",
+    "region_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Costa Rica",
+    "region_id": 2
+  },
+  {
+    "id": 6,
+    "name": "El Salvador",
+    "region_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Guatemala",
+    "region_id": 2
+  },
+  {
+    "id": 8,
+    "name": "Honduras",
+    "region_id": 2
+  },
+  {
+    "id": 9,
+    "name": "Mexico",
+    "region_id": 2
+  },
+  {
+    "id": 10,
+    "name": "Nicaragua",
+    "region_id": 2
+  },
+  {
+    "id": 11,
+    "name": "Brazil",
+    "region_id": 3
+  },
+  {
+    "id": 12,
+    "name": "Peru",
+    "region_id": 3
+  }
+]

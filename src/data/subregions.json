@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "name": "Buyenzi",
+    "region_id": 1,
+    "country_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Bweru",
+    "region_id": 1,
+    "country_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Harrar",
+    "region_id": 1,
+    "country_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Jimma",
+    "region_id": 1,
+    "country_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Limu",
+    "region_id": 1,
+    "country_id": 2
+  },
+  {
+    "id": 6,
+    "name": "Sidamo",
+    "region_id": 1,
+    "country_id": 2
+  },
+  {
+    "id": 7,
+    "name": "Yirgacheffe",
+    "region_id": 1,
+    "country_id": 2
+  },
+  {
+    "id": 8,
+    "name": "Akagera",
+    "region_id": 1,
+    "country_id": 3
+  },
+  {
+    "id": 9,
+    "name": "Kivu",
+    "region_id": 1,
+    "country_id": 3
+  },
+  {
+    "id": 10,
+    "name": "Kizi Rift",
+    "region_id": 1,
+    "country_id": 3
+  },
+  {
+    "id": 11,
+    "name": "Muhazi",
+    "region_id": 1,
+    "country_id": 3
+  },
+  {
+    "id": 12,
+    "name": "Virunga",
+    "region_id": 1,
+    "country_id": 3
+  },
+  {
+    "id": 13,
+    "name": "Bugisu",
+    "region_id": 1,
+    "country_id": 4
+  },
+  {
+    "id": 14,
+    "name": "Lira",
+    "region_id": 1,
+    "country_id": 4
+  },
+  {
+    "id": 15,
+    "name": "Masaka",
+    "region_id": 1,
+    "country_id": 4
+  },
+  {
+    "id": 16,
+    "name": "Mbarara",
+    "region_id": 1,
+    "country_id": 4
+  },
+  {
+    "id": 17,
+    "name": "Okoro",
+    "region_id": 1,
+    "country_id": 4
+  },
+  {
+    "id": 18,
+    "name": "Brunca",
+    "region_id": 2,
+    "country_id": 5
+  },
+  {
+    "id": 19,
+    "name": "Orosi",
+    "region_id": 2,
+    "country_id": 5
+  },
+  {
+    "id": 20,
+    "name": "Tarrazu",
+    "region_id": 2,
+    "country_id": 5
+  },
+  {
+    "id": 21,
+    "name": "Tres Rios",
+    "region_id": 2,
+    "country_id": 5
+  },
+  {
+    "id": 22,
+    "name": "Turrialba",
+    "region_id": 2,
+    "country_id": 5
+  },
+  {
+    "id": 23,
+    "name": "Apaneca",
+    "region_id": 2,
+    "country_id": 6
+  },
+  {
+    "id": 24,
+    "name": "Cacahuatique",
+    "region_id": 2,
+    "country_id": 6
+  },
+  {
+    "id": 25,
+    "name": "Chalatenango",
+    "region_id": 2,
+    "country_id": 6
+  },
+  {
+    "id": 26,
+    "name": "Metapán",
+    "region_id": 2,
+    "country_id": 6
+  },
+  {
+    "id": 27,
+    "name": "Santa Ana",
+    "region_id": 2,
+    "country_id": 6
+  },
+  {
+    "id": 28,
+    "name": "Acatenango",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 29,
+    "name": "Antigua",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 30,
+    "name": "Atitlán",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 31,
+    "name": "Cobán",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 32,
+    "name": "FraiJanes",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 33,
+    "name": "Huehuetenango",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 34,
+    "name": "New Oriente",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 35,
+    "name": "San Marcos",
+    "region_id": 2,
+    "country_id": 7
+  },
+  {
+    "id": 36,
+    "name": "Agalta",
+    "region_id": 2,
+    "country_id": 8
+  },
+  {
+    "id": 37,
+    "name": "Comayagua",
+    "region_id": 2,
+    "country_id": 8
+  },
+  {
+    "id": 38,
+    "name": "Copán",
+    "region_id": 2,
+    "country_id": 8
+  },
+  {
+    "id": 39,
+    "name": "El Paraiso",
+    "region_id": 2,
+    "country_id": 8
+  },
+  {
+    "id": 40,
+    "name": "Montecillos",
+    "region_id": 2,
+    "country_id": 8
+  },
+  {
+    "id": 41,
+    "name": "Opalaca",
+    "region_id": 2,
+    "country_id": 8
+  },
+  {
+    "id": 42,
+    "name": "Chiapas",
+    "region_id": 2,
+    "country_id": 9
+  },
+  {
+    "id": 43,
+    "name": "Oaxaca",
+    "region_id": 2,
+    "country_id": 9
+  },
+  {
+    "id": 44,
+    "name": "Veracruz",
+    "region_id": 2,
+    "country_id": 9
+  },
+  {
+    "id": 45,
+    "name": "Esteli",
+    "region_id": 2,
+    "country_id": 10
+  },
+  {
+    "id": 46,
+    "name": "Jinotega",
+    "region_id": 2,
+    "country_id": 10
+  },
+  {
+    "id": 47,
+    "name": "Madriz",
+    "region_id": 2,
+    "country_id": 10
+  },
+  {
+    "id": 48,
+    "name": "Matagalpa",
+    "region_id": 2,
+    "country_id": 10
+  },
+  {
+    "id": 49,
+    "name": "Nueva Segovia",
+    "region_id": 2,
+    "country_id": 10
+  },
+  {
+    "id": 50,
+    "name": "Atlantico Baiano",
+    "region_id": 3,
+    "country_id": 11
+  },
+  {
+    "id": 51,
+    "name": "Centro-Oeste de São Paulo",
+    "region_id": 3,
+
+    "country_id": 11
+  },
+  {
+    "id": 52,
+    "name": "Cerrado and Planalto da Bahia",
+    "region_id": 3,
+
+    "country_id": 11
+  },
+  {
+    "id": 53,
+    "name": "Cerrado de Minas",
+    "region_id": 3,
+    "country_id": 11
+  },
+  {
+    "id": 54,
+    "name": "Chapada de Minas",
+    "region_id": 3,
+    "country_id": 11
+  },
+  {
+    "id": 55,
+    "name": "Conilon Capixaba",
+    "region_id": 3,
+    "country_id": 11
+  },
+  {
+    "id": 56,
+    "name": "Matas de Minas",
+    "region_id": 3,
+    "country_id": 11
+  },
+  {
+    "id": 57,
+    "name": "Mogiana",
+    "region_id": 3,
+    "country_id": 11
+  },
+  {
+    "id": 58,
+    "name": "Montanhas do Espírito Santo",
+    "region_id": 3,
+
+    "country_id": 11
+  },
+  {
+    "id": 59,
+    "name": "Sul de Minas",
+    "region_id": 3,
+    "country_id": 11
+  },
+  {
+    "id": 60,
+    "name": "Amazonas",
+    "region_id": 3,
+    "country_id": 12
+  },
+  {
+    "id": 61,
+    "name": "Chanchamayo",
+    "region_id": 3,
+    "country_id": 12
+  },
+  {
+    "id": 62,
+    "name": "San Martin",
+    "region_id": 3,
+    "country_id": 12
+  }
+]

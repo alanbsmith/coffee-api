@@ -1,0 +1,44 @@
+{
+  "name": "coffee-api",
+  "version": "0.1.0",
+  "description": "a small coffee api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --pretty --transpile-only src/index.ts",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanbsmith/coffee-api.git"
+  },
+  "author": "Alan B Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanbsmith/coffee-api/issues"
+  },
+  "homepage": "https://github.com/alanbsmith/coffee-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.5.0",
+    "knex": "^0.95.4",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.10",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.11",
+    "@types/helmet": "^4.0.0",
+    "@types/node": "^15.0.1",
+    "husky": "^6.0.0",
+    "lint-staged": "^10.5.4",
+    "prettier": "^2.2.1",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.4"
+  },
+  "lint-staged": {
+    "*.{js,json,ts,md}": "prettier --write"
+  }
+}
